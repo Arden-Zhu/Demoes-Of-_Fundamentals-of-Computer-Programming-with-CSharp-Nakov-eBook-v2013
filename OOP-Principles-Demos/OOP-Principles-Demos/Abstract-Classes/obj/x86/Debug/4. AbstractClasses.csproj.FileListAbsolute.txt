@@ -1,0 +1,10 @@
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\4. AbstractClasses\bin\Debug\_4.AbstractClasses.exe
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\4. AbstractClasses\bin\Debug\_4.AbstractClasses.pdb
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\4. AbstractClasses\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\4. AbstractClasses\obj\x86\Debug\_4.AbstractClasses.exe
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\4. AbstractClasses\obj\x86\Debug\_4.AbstractClasses.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\AbstractClasses\bin\Debug\_4.AbstractClasses.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\AbstractClasses\bin\Debug\_4.AbstractClasses.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\AbstractClasses\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\AbstractClasses\obj\x86\Debug\_4.AbstractClasses.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\AbstractClasses\obj\x86\Debug\_4.AbstractClasses.pdb

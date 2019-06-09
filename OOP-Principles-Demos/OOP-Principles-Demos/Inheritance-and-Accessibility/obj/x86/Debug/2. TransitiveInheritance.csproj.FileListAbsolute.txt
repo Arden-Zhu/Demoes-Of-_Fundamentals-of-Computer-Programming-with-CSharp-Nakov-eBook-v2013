@@ -1,0 +1,10 @@
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\bin\Debug\TransitiveInheritance.exe
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\bin\Debug\TransitiveInheritance.pdb
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\obj\x86\Debug\TransitiveInheritance.exe
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\obj\x86\Debug\TransitiveInheritance.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\obj\x86\Debug\TransitiveInheritance.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\obj\x86\Debug\TransitiveInheritance.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\bin\Debug\TransitiveInheritance.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\bin\Debug\TransitiveInheritance.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Class-Diagrams\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Class-Diagrams\bin\Debug\Class-Diagrams.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Class-Diagrams\bin\Debug\Class-Diagrams.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Class-Diagrams\obj\x86\Debug\Class-Diagrams.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Class-Diagrams\obj\x86\Debug\Class-Diagrams.pdb

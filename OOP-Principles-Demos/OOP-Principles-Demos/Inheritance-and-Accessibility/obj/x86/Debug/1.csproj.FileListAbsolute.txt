@@ -1,0 +1,5 @@
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\bin\Debug\OOP.exe
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\bin\Debug\OOP.pdb
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\obj\x86\Debug\OOP.exe
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\OOP\obj\x86\Debug\OOP.pdb

@@ -1,0 +1,10 @@
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\Simple Inheritance\bin\Debug\Simple Inheritance.exe
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\Simple Inheritance\bin\Debug\Simple Inheritance.pdb
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\Simple Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\Simple Inheritance\obj\x86\Debug\Simple Inheritance.exe
+D:\DATA\8. Work\Telerik\prezentacii\probno\OOP-demos\OOP-demos\Simple Inheritance\obj\x86\Debug\Simple Inheritance.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Simple Inheritance\bin\Debug\Simple Inheritance.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Simple Inheritance\bin\Debug\Simple Inheritance.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Simple Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Simple Inheritance\obj\x86\Debug\Simple Inheritance.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\Simple Inheritance\obj\x86\Debug\Simple Inheritance.pdb

@@ -1,0 +1,5 @@
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\bin\Debug\TransitiveInheritance.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\bin\Debug\TransitiveInheritance.pdb
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\obj\x86\Debug\TransitiveInheritance.exe
+C:\NAKOV\Fundamentals-of-C#-Programming\Lectures\20. Object-Oriented Programming Fundamental Principles\OOP-Principles-Demos\OOP\obj\x86\Debug\TransitiveInheritance.pdb
